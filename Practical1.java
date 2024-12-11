@@ -1,4 +1,4 @@
-class Person
+ class Person
 {
     String firstName;
     String lastName;
@@ -30,4 +30,3 @@ class Person
     System.out.println("Average age: " + averageAge);
         }
     }
-
